@@ -2,7 +2,7 @@
  * program to find the square root of the given number till given precision
  *
  * @Harsh_Garg,1910990582,19/07/2021
- * Assignement 1
+ * Assignment 1
  */
 
 #include<stdio.h> 
