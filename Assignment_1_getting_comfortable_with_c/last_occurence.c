@@ -40,6 +40,10 @@ int strrindex(char* str1, char* str2)
             j = len2 - 1;
         }
     }
+    if(j < 0)
+    {
+        retrun 0;
+    }
      
     return -1;
 }  
