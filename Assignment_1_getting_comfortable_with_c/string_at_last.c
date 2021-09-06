@@ -46,6 +46,7 @@ int strend(char* str1, char* str2)
             j--;
         }
     }
+    return 1; //when the second string is present at the beginning of the first string
 }
     
 int main()
